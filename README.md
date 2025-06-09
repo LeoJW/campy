@@ -1,3 +1,11 @@
+# This is a fork of the AV1 branch of the very well made campy repository
+For the actual repository, see https://github.com/ksseverson57/campy
+
+This fork was made because some more recent changes broke some functionality as of June 9 2025. Likely those breaks could be mended by using an updated version of everything, but if you want a version that is guaranteed to work on Sponberg lab computers, here it is. Eventually we should move to the full repo
+
+-Leo
+
+
 # This is an experimental branch currently being tested
 # Preparing new release (2.1.0) Fall 2023
 - Added AV1 encoding support for better streaming quality per bit rate (see examples) \
